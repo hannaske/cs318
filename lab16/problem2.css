@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(to bottom,lightgoldenrodyellow, orange);
+    background-repeat: no-repeat;
+    
+}
+
+.heading {
+    height: 80px;
+    width: auto;
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+    font-size: 10pt;
+    color:white;
+    background-color: dimgray;
+}
+
+.seal {
+    position: fixed;
+    right: 410px;
+    width: 95px;
+    height: 95px; 
+    
+}
+
+.blurb right {
+    
+}

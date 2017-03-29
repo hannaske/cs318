@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.square {
+    width: 100px;
+	height: 100px;
+	background: white;
+}
+
+.circle {
+    width: 100px;
+	height: 100px;
+	background: white;
+	border-radius: 50px;
+}
+
+.rectangle {
+    width: 50px;
+	height: 15px;
+	background: red;
+}
+
+.rectangle2 {
+    width: 50px;
+	height: 15px;
+	background: orange;
+}
+
+.rectangle3 {
+    width: 50px;
+	height: 15px;
+	background: yellow;
+}
+
+.rectangle4 {
+    width: 50px;
+	height: 15px;
+	background: green;
+}
+
+.rectangle5 {
+    width: 50px;
+	height: 15px;
+	background: blue;
+}
