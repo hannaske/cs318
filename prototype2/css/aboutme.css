@@ -11,12 +11,6 @@ body {
     margin: auto;  
 }
 
-a {
-    text-decoration: none;
-    color: black;
-    margin: 4px;
-}
-
 footer {
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 18px;
@@ -32,17 +26,11 @@ footer {
     font-size: 14pt;
 }
 
-.menu ul li:hover {
-    background-color: #C3EBFF;
-}
-
-.menu ul li:last-of-type {
-border-right: none;
-}
 
 img {
     width: 211px;
     float: left;
+    box-shadow: 1px 1px 1px #888888; 
 }
 
 h1 {
@@ -75,6 +63,7 @@ main {
         width: 180px;
         height:auto;
         padding-right: 10px;
+        box-shadow: none;
     }
     
     main{

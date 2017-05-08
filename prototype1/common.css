@@ -1,0 +1,13 @@
+.menu ul li:hover {
+    background-color: #C3EBFF;
+}
+
+.menu ul li:last-of-type {
+    border-right: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 4px;
+}
